@@ -1,10 +1,15 @@
 ## Ali Abbasinasab
 
 Tools and libs:
+
 create-react-app
-newsapi js library https://github.com/bzarras/newsapi
+
+newsapi js library https://github.com/bzarras/newsapi (Create you own API key)
+
 Using https://github.com/atlassian/react-beautiful-dnd to move news headlines within the list
+
 Components based architecture
+
 No Redux!!
 
 
